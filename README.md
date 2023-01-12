@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=선천적%20베짱이&fontSize=90)
-### 전생에 뽀로로 입니다 👋 & fontSize=40
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=선천적%20베짱이&fontSize=80)
+## 전생에 뽀로로 입니다 👋
 
 **wocjs/wocjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
