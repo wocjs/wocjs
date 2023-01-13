@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/suineg.h-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   <br/><br/><br/>
 </div>
-![wocjs's Github Stats](https://github-readme-stats.vercel.app/api?username=wocjs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wocjs602@gmail.com&show_icons=true&theme=dracula)
