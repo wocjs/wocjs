@@ -2,3 +2,4 @@
 
 <div align="center">선천적 베짱이 입니다👋</div>
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
