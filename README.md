@@ -20,5 +20,6 @@
   <img src="https://img.shields.io/badge/suineg.h-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   <br/><br/><br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wocjs&show_icons=true&theme=dracula)
-
+  &nbsp&nbsp
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wocjs&layout=compact&theme=tokyonight)
 </div>
