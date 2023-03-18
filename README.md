@@ -2,7 +2,12 @@
 
 <div align="center">
   선천적 베짱이 입니다👋
-  <br/><br/><br/>
+  <br/><br/>
+  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=wocjs&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wocjs&layout=compact&theme=material-palenight)
+
+
+  <br/>
   👉Technology Stack👈
   <br/><br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -13,6 +18,7 @@
   &nbsp&nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor="white/>
   <br/><br/><br/>
+  
   👉Contact Info👈
   <br/><br/>
   <img src="https://img.shields.io/badge/wocjs602@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
