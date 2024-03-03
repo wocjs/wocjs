@@ -12,7 +12,7 @@
 </div>
 <div align=center>
   <h3>👉Technology Stack👈
-  <h5>💡Used as the main
+  <h4>💡Used as the main
   <br/><br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   &nbsp&nbsp
@@ -26,7 +26,7 @@
   &nbsp&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <br/>
-  <h5>💡Used at least once
+  <h4>💡Used at least once
   <br/><br/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
   &nbsp&nbsp
